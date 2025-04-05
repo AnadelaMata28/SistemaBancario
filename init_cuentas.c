@@ -19,7 +19,7 @@ int archivoCuenta() {
 	// wb+ crea un archivo binario vacío para la lectura y escritura, si el archivo existe el contenido se borrará salvo que sea un archivo lógico
 	file = fopen("cuentas.dat", "wb+");
 	if (!file) {
-		perror("No se pudo crear cuentas.dat");
+		perror("No se pudo crear cuentas.dat\n");
 		return 1;
 	}
 
@@ -27,7 +27,7 @@ int archivoCuenta() {
 
 	fclose(file);
 
-	printf("Archivo creado correctamente");
+	printf("Archivo creado correctamente\n");
 
 	return 0;
 }

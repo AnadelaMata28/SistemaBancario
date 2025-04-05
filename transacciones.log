@@ -1,1 +1,8 @@
-[2025-04-04 09:51:30] Tipo: deposito | Cuenta origen: 1 | Monto: 1095761920.00
+[2025-04-05 22:58:00] Tipo: consulta | Cuenta origen: 1
+[2025-04-05 23:06:05] Tipo: consulta | Cuenta origen: 1
+[2025-04-05 23:07:29] Tipo: consulta | Cuenta origen: 1
+[2025-04-05 23:07:51] Tipo: deposito | Cuenta origen: 1 | Monto: 13.00
+[2025-04-05 23:08:01] Tipo: consulta | Cuenta origen: 1
+[2025-04-05 23:08:24] Tipo: retiro | Cuenta origen: 1 | Monto: 13.00
+[2025-04-05 23:08:56] Tipo: transferencia | Cuenta origen: 1 -> destino: 2 | Monto: 5.00
+[2025-04-05 23:10:12] Tipo: consulta | Cuenta origen: 2
