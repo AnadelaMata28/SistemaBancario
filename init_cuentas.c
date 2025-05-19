@@ -3,16 +3,16 @@
 #include <pthread.h>
 #include "init_cuentas.h"
 
-int archivoCuenta() {
+int main() {
 	FILE *file;
 
 	// Creamos la estructura
 	struct Cuenta cuenta[5] = {
-		{0001, "Natalia Bérbel", 3000.00, 0},
-		{0002, "Santiago Llanos", 10000.00, 0},
-		{0003, "María Fazio", 1500.00, 0},
-		{0004, "Paula González", 222.00, 0},
-		{0005, "Ana de la Mata", 2828.00, 0},
+		{0001, "Natalia Berbel", 3000.00, 0, 0},
+		{0002, "Santiago Llanos", 10000.00, 0, 0},
+		{0003, "María Fazio", 1500.00, 0, 0},
+		{0004, "Paula González", 222.00, 0, 0},
+		{0005, "Ana de la Mata", 2828.00, 0, 0},
 	};
 	
 	// Creamos y escribimos el archivo binario "cuentas.dat"
@@ -32,9 +32,3 @@ int archivoCuenta() {
 	return 0;
 }
 
-int main(){
-	if(archivoCuenta()==1) {
-		return 1;
-	}
-	return 0;
-}

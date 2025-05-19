@@ -1,0 +1,127 @@
+[2025-05-18 20:54:00] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-18 20:59:38] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-18 21:37:24] Tipo: retiro | Cuenta origen: 5 | Monto: 2.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-18 21:37:24] Tipo: transferencia | Cuenta origen: 5 -> destino: 2 | Monto: 1.00 | Monitor: Correcto
+[2025-05-18 21:51:34] Tipo: retiro | Cuenta origen: 3 | Monto: 2.00 | Monitor: Correcto
+[2025-05-18 21:51:34] Tipo: deposito | Cuenta origen: 3 | Monto: 1.00 | Monitor: Correcto
+[2025-05-18 21:51:34] Tipo: transferencia | Cuenta origen: 3 -> destino: 2 | Monto: 1.00 | Monitor: Correcto
+[2025-05-18 23:01:56] Tipo: deposito | Cuenta origen: 5 | Monto: 2.00 | Monitor: Correcto
+[2025-05-18 23:01:56] Tipo: deposito | Cuenta origen: 5 | Monto: 3.00 | Monitor: Correcto
+[2025-05-18 23:01:56] Tipo: deposito | Cuenta origen: 5 | Monto: 4.00 | Monitor: Correcto
+[2025-05-18 23:01:56] Tipo: retiro | Cuenta origen: 5 | Monto: 2.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 08:02:23] Tipo: retiro | Cuenta origen: 5 | Monto: 5.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 08:02:23] Tipo: retiro | Cuenta origen: 1 | Monto: 3.00 | Monitor: Correcto
+[2025-05-19 08:02:23] Tipo: retiro | Cuenta origen: 2 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 08:02:23] Tipo: retiro | Cuenta origen: 3 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 08:02:23] Tipo: retiro | Cuenta origen: 4 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 08:02:23] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 08:05:09] Tipo: retiro | Cuenta origen: 5 | Monto: 3.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 08:06:41] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 08:06:41] Tipo: retiro | Cuenta origen: 1 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 08:18:16] Tipo: retiro | Cuenta origen: 5 | Monto: 5.00 | Monitor: Correcto
+[2025-05-19 08:18:16] Tipo: retiro | Cuenta origen: 1 | Monto: 4.00 | Monitor: Correcto
+[2025-05-19 08:18:16] Tipo: retiro | Cuenta origen: 3 | Monto: 3.00 | Monitor: Correcto
+[2025-05-19 08:18:16] Tipo: retiro | Cuenta origen: 1 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 08:18:16] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 08:40:32] Tipo: retiro | Cuenta origen: 5 | Monto: 3.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 08:40:32] Tipo: transferencia | Cuenta origen: 1 -> destino: 2 | Monto: 3.00 | Monitor: Correcto
+[2025-05-19 08:40:32] Tipo: retiro | Cuenta origen: 3 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 08:41:20] Tipo: transferencia | Cuenta origen: 1 -> destino: 2 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 08:51:08] Tipo: transferencia | Cuenta origen: 5 -> destino: 2 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 08:52:44] Tipo: retiro | Cuenta origen: 5 | Monto: 5.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 08:52:44] Tipo: retiro | Cuenta origen: 1 | Monto: 4.00 | Monitor: Correcto
+[2025-05-19 08:52:44] Tipo: retiro | Cuenta origen: 3 | Monto: 3.00 | Monitor: Correcto
+[2025-05-19 08:52:44] Tipo: retiro | Cuenta origen: 5 | Monto: 2.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 08:52:44] Tipo: retiro | Cuenta origen: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 14:29:05] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 14:29:05] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: ALERTA:Transferencias consecutivas entre cuentas detectadas.
+[2025-05-19 16:23:48] Tipo: deposito | Cuenta origen: 5 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 17:27:45] Tipo: deposito | Cuenta origen: 0 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 17:27:45] Tipo: retiro | Cuenta origen: 0 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 17:28:14] Tipo: deposito | Cuenta origen: 0 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 17:37:00] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 17:37:55] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 17:37:55] Tipo: retiro | Cuenta origen: 5 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 17:37:55] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 17:44:45] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 17:44:45] Tipo: retiro | Cuenta origen: 5 | Monto: 3.00 | Monitor: Correcto
+[2025-05-19 17:44:45] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 17:44:45] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:20:21] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 19:20:21] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:20:21] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:20:21] Tipo: deposito | Cuenta origen: 5 | Monto: 10.00 | Monitor: Correcto
+[2025-05-19 19:20:21] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:21:53] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:26:17] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:26:17] Tipo: deposito | Cuenta origen: 5 | Monto: 10.00 | Monitor: Correcto
+[2025-05-19 19:26:17] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:26:17] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:26:17] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:42:43] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:42:43] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 5.00 | Monitor: Correcto
+[2025-05-19 19:42:43] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:42:43] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 19:42:43] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 19:42:43] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 19:46:45] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 19:49:03] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:49:03] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 19:49:03] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 2.00 | Monitor: Correcto
+[2025-05-19 19:49:03] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 19:49:03] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 19:49:03] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 19:51:07] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 19:51:07] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 100.00 | Monitor: Correcto
+[2025-05-19 19:51:07] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 20:25:13] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:25:13] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 10.00 | Monitor: Correcto
+[2025-05-19 20:25:24] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 20:25:24] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 20:25:24] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 20:29:49] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 10.00 | Monitor: Correcto
+[2025-05-19 20:31:56] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 10.00 | Monitor: Correcto
+[2025-05-19 20:33:25] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 10.00 | Monitor: Correcto
+[2025-05-19 20:33:25] Tipo: consulta | Cuenta origen: 1
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: retiro | Cuenta origen: 5 | Monto: 5.00 | Monitor: Correcto
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: retiro | Cuenta origen: 5 | Monto: 3.00 | Monitor: Correcto
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:16] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:59] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:41:59] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 80.00 | Monitor: Correcto
+[2025-05-19 20:41:59] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:43:06] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:57:00] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 20:57:00] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 20:57:00] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 20:57:00] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 20:57:00] Tipo: retiro | Cuenta origen: 5 | Monto: 1.00 | Monitor: ALERTA:Retiros consecutivos detectados.
+[2025-05-19 20:57:00] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 20:57:00] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 20:57:00] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: Correcto
+[2025-05-19 20:57:00] Tipo: transferencia | Cuenta origen: 5 -> destino: 1 | Monto: 1.00 | Monitor: ALERTA:Transferencias consecutivas entre cuentas detectadas.
+[2025-05-19 20:57:00] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 20:57:03] Tipo: deposito | Cuenta origen: 1 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 20:57:03] Tipo: retiro | Cuenta origen: 3 | Monto: 40.00 | Monitor: Correcto
+[2025-05-19 21:00:07] Tipo: retiro | Cuenta origen: 3 | Monto: 40.00 | Monitor: Correcto
+[2025-05-19 21:00:07] Tipo: transferencia | Cuenta origen: 2 -> destino: 4 | Monto: 38.00 | Monitor: Correcto
+[2025-05-19 21:00:07] Tipo: deposito | Cuenta origen: 4 | Monto: 300.00 | Monitor: Correcto
+[2025-05-19 21:06:29] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 21:07:02] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 21:08:21] Tipo: consulta | Cuenta origen: 5
+[2025-05-19 21:08:21] Tipo: deposito | Cuenta origen: 5 | Monto: 12.00 | Monitor: Correcto
+[2025-05-19 21:17:48] Tipo: retiro | Cuenta origen: 3 | Monto: 44.00 | Monitor: Correcto
